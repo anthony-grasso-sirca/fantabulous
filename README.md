@@ -1,2 +1,2 @@
 # fantabulous
-A projected with a fantabulous name.
+A project with a fantabulous name.
